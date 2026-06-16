@@ -1,0 +1,21 @@
+Q3 Product Roadmap Planning Meeting Transcript
+Date: June 15, 2026
+Attendees: Sarah (Product Manager), Mike (Lead Engineer), David (Marketing Director)
+
+Transcript Summary:
+[09:05] Sarah: We need to lock down our Q3 delivery schedules. The main priority is the Beta launch of the CLI interface.
+[09:12] Mike: The core engine is ready. However, the API documentation is still incomplete. I think we need about two weeks to write clean specs.
+[09:20] Sarah: Okay. Let's set the target Beta launch date for August 1st. Sarah will coordinate writing the API documentation and aims to finish it by July 10th.
+[09:30] David: For the launch, I want to redirect our Q3 marketing budgets. We should shift $15,000 from print ads over to digital campaigns (focused on LinkedIn and developer communities).
+[09:40] Sarah: Good plan. Let's make that shift official. Mike, can you have the new landing page set up and integrated with the analytics pixel by July 15th?
+[09:45] Mike: Yes, I'll take care of that. I will also make sure we have server auto-scaling rules defined by July 20th.
+
+Key Decisions:
+1. Shift $15,000 of marketing budget from print to digital ads (LinkedIn and developer platforms).
+2. Set CLI Beta launch date to August 1st.
+
+Action Items:
+- Sarah: Write and publish the API documentation. Deadline: July 10th.
+- Mike: Build and deploy the Beta landing page with tracking. Deadline: July 15th.
+- Mike: Define server auto-scaling rules. Deadline: July 20th.
+- David: Configure the digital ad accounts and draft campaigns. Deadline: July 25th.

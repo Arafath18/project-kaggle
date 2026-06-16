@@ -1,0 +1,17 @@
+Biography of Alan Turing
+
+Alan Turing was a pioneering British mathematician, logician, and computer scientist whose work shaped the modern digital age.
+
+Key Figures:
+- Alan Turing: The subject, main mathematician and cryptanalyst.
+- Joan Clarke: Fellow cryptanalyst and close friend at Bletchley Park.
+- Winston Churchill: Prime Minister who provided resources to the cryptanalyst team.
+- Max Newman: Mathematician who led the development of Colossus.
+
+Timeline of Important Dates:
+- June 23, 1912: Alan Turing is born in Maida Vale, London.
+- September 4, 1939: Turing reports to Bletchley Park to begin codebreaking work.
+- 1941: Turing and his team successfully crack the German naval Enigma code.
+- 1945: Awarded an OBE by King George VI for his wartime services.
+- 1950: Publishes his landmark paper "Computing Machinery and Intelligence," introducing the Turing Test.
+- June 7, 1954: Turing dies in Wilmslow, England, at the age of 41.

@@ -1,0 +1,9 @@
+Research Paper: Optimization of Convolutional Neural Networks using Adaptive Cyclic Annealing
+
+Methodology:
+In this study, we propose a new learning rate scheduling algorithm named Adaptive Cyclic Annealing (ACA). Unlike traditional static cyclic learning rates, ACA monitors validation loss trends dynamically in real-time. The learning rate is decayed inside each cycle based on the rate of decrease in loss, allowing the model to adaptively escape local minima. We trained standard ResNet-50 and ConvNeXt architectures on the ImageNet-1K dataset using this method. Experiments were conducted using 8 NVIDIA H100 GPUs, with a batch size of 512 over 90 epochs.
+
+Conclusions:
+1. The ACA algorithm reduced total model convergence training time by 15.4% compared to standard cosine annealing schedulers.
+2. The accuracy of the trained ResNet-50 model improved by 2.1% top-1 validation accuracy, demonstrating better final parameter localization.
+3. The method shows high robustness against variations in batch sizes, making it suitable for distributed training configurations.
